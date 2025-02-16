@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfsatyam&label=Profile%20views&color=0e75b6&style=flat" alt="myselfsatyam" /> </p>
 
-- 🌱 I’m currently learning *web-3***
+- 🌱 I’m currently learning *web-3*
 
 - 📫 How to reach me **satyamsharma21589@gmail.com**
 
