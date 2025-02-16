@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satyam Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfsatyam&label=Profile%20views&color=0e75b6&style=flat" alt="myselfsatyam" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack Devlopment**
+- 🌱 I’m currently learning *web-3***
 
 - 📫 How to reach me **satyamsharma21589@gmail.com**
 
