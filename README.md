@@ -1,8 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Myself.<br>🤝 I’m looking for help with AI_ML<br>🌱 I’m currently learning GOLANG<br>💬 Ask me about MARVEL, WEB DEV, ANIME.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myselfsatyam_)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/myselfsatyam_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/s_aat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/satyam_says_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamsharma21589@gmail.com) 
+
 
 # こんにちは 👋 
 
@@ -15,9 +12,16 @@
 # 私について 💬
 
 - **フルスタック開発者** (Full Stack Developer)
+- 🔭 私は現在、自分自身に取り組んでいます。(Working on Myself)
 - コードを書くのが大好きです (I love writing code)
-- 日本語を勉強中です (ひらがな ✓)
+- 現在、Golangを学んでいます。(learning Golang)
 - ワンピース愛好家 & 夜行性プログラマー
+- MARVELやアニメについて聞いてください。(ask me anything about Marvel and Anime) 
+
+</br>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myselfsatyam_)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/myselfsatyam_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/s_aat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/satyam_says_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamsharma21589@gmail.com) 
 
 </br>
 
