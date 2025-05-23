@@ -1,31 +1,33 @@
-
-
-
-# こんにちは 👋 
+# こんにちは 👋
 
 <div align="center">
-<img height="250" width="600" alt="Coding Animation" align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBjaXp4dHN2MnE5dzJuZGc5YWsya2ttOTU0eHU0aWw2eXFxajN6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif">
+  <img height="250" width="600" alt="Coding Animation" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBjaXp4dHN2MnE5dzJuZGc5YWsya2ttOTU0eHU0aWw2eXFxajN6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif" />
 </div>
 
 </br>
 
-# 私について 💬
+## 👨‍💻 About Me
 
-- **フルスタック開発者** (Full Stack Developer)
-- 🔭 私は現在、自分自身に取り組んでいます。(Working on Myself)
-- コードを書くのが大好きです (I love writing code)
-- 現在、Golangを学んでいます。(learning Golang)
-- ワンピース愛好家 & 夜行性プログラマー
-- MARVELやアニメについて聞いてください。(ask me anything about Marvel and Anime) 
-
-</br>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myselfsatyam_)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/myselfsatyam_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/s_aat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/satyam_says_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamsharma21589@gmail.com) 
+- **Full Stack Developer**
+- 🔭 Currently working on myself
+- 💻 I love writing code
+- 🧠 Currently learning **Golang**
+- ☠️ One Piece enthusiast & night owl coder
+- 🎬 Ask me anything about **MARVEL** or **Anime**
 
 </br>
 
-# 技術スタック 🛠
+## 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myselfsatyam_) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/myselfsatyam_) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/s_aat) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/satyam_says_17) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamsharma21589@gmail.com)
+
+</br>
+
+## 🛠 Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -35,17 +37,19 @@
 
 </br>
 
+## ✨ Dev Philosophy
+
 ```typescript
-// コードは詩のようなものだ
+// Code is like poetry
 try {
   const hexa = await Universe.compile({
-    type: "開発者",
-    buildPath: "./虚無/から/創造",
-    mode: "不思議だが優雅"
+    type: "Developer",
+    buildPath: "./nothingness/to/creation",
+    mode: "Mysterious but graceful"
   });
-  
+
   hexa.execute();
-} catch (存在) {
+} catch (existence) {
   // Every line of code I write is either a poem or a curse
-  console.dark("彷徨う者が皆、迷子なわけではない。デバッグしているだけだ。");
+  console.dark("Not all those who wander are lost. They're just debugging.");
 }
