@@ -40,7 +40,7 @@
 ## ✨ Naruto's Philosophy
 
 ```typescript
-// Whenever I feel to give up i read this
+// Whenever I feel like I’m going to give up, I read this
 try {
   const ninjaWay = await Uzumaki.compile({
     type: "Shinobi",
