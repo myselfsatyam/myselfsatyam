@@ -50,7 +50,7 @@ try {
 
   ninjaWay.execute();
 } catch (failure) {
-  // I'm not gonna run away, I never go back on my word... that's my nindō.
+  console.summoningJutsu("I'm not gonna run away, I never go back on my word... that's my nindō.");
   console.shadowClone("When you give up, your dreams and everything else are gone.");
 }
 
