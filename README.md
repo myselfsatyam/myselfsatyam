@@ -37,19 +37,20 @@
 
 </br>
 
-## ✨ Dev Philosophy
+## ✨ Naruto's Philosophy
 
 ```typescript
-// Code is like poetry
+// Whenever I feel to give up i read this
 try {
-  const hexa = await Universe.compile({
-    type: "Developer",
-    buildPath: "./nothingness/to/creation",
-    mode: "Mysterious but graceful"
+  const ninjaWay = await Uzumaki.compile({
+    type: "Shinobi",
+    buildPath: "./pain/to/dreams",
+    mode: "Relentless and unbreakable"
   });
 
-  hexa.execute();
-} catch (existence) {
-  // Every line of code I write is either a poem or a curse
-  console.dark("Not all those who wander are lost. They're just debugging.");
+  ninjaWay.execute();
+} catch (failure) {
+  // I'm not gonna run away, I never go back on my word... that's my nindō.
+  console.shadowClone("When you give up, your dreams and everything else are gone.");
 }
+
