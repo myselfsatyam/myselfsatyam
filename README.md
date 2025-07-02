@@ -12,7 +12,6 @@
 - 🔭 Currently working on myself
 - 💻 I love writing code
 - 🧠 Currently learning **Golang**
-- ☠️ One Piece enthusiast & night owl coder
 - 🎬 Ask me anything about **MARVEL** or **Anime**
 
 </br>
