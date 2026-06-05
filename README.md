@@ -11,7 +11,7 @@
 - **Full Stack Developer**
 - 🔭 Currently working on myself
 - 💻 I love writing code
-- 🧠 Currently learning **RUST**
+- 🧠 Currently learning **Backend distributed Systems**
 - 🎬 Ask me anything about **MARVEL** or **Anime**
 
 </br>
@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,rust,mongodb,tailwind,python,cpp&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,golang,mongodb,tailwind,python,cpp&theme=dark&perline=3" />
   </a>
 </div>
 
